@@ -1,1 +1,4 @@
-phone
+phone number = 8979131386
+
+touchscreen
+scrratchless-gorilla glass
